@@ -1,6 +1,6 @@
 # MiniBlog
 
-This project was developed during the React do Zero a Maestria course on Udemy.
+This project was developed during the "React do Zero a Maestria" course on Udemy.
 
 ## Technologies and tools used
 
@@ -11,3 +11,10 @@ This project was developed during the React do Zero a Maestria course on Udemy.
 - JavaScript
 - HTML
 - CSS
+
+## Features
+
+- Sign-up
+- Login
+- Post creation
+- Post editing and deletion
